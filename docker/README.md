@@ -111,7 +111,7 @@ If you have `docker-compose` version 1.28 or above, that's great! You can simply
 ```bash
 $ cd /path/to/project/handson-ml2/docker
 $ docker-compose up
-[...]
+[...]22
      or http://127.0.0.1:8888/?token=[...]
 ```
 
